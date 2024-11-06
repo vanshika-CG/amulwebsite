@@ -1,0 +1,451 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    width: 100%;
+
+}
+#head{
+    background-color:#131921 ;
+    height: 80px;
+    width: 1280px;
+}
+
+.logo{
+ padding: 20px;
+}
+
+.loc{
+    margin-top: 30px;
+}
+
+.loc1{
+margin-top: 27px;
+margin-left: 32px;
+}
+.text{
+    color: white;
+margin-top: 30px;
+font-size: larger;
+
+}
+.img{
+  margin-top: 16px;
+  margin-left: 57px;
+}
+
+#head{
+    display:flex ;
+}
+
+.box{
+    height: 37px;
+    width: 659px;
+    background-color: white;
+  margin-top: 20px;
+  border-radius: 5px;
+color: rgb(67, 65, 65);
+
+}
+.Searchtext{
+    padding: 10px;
+}
+
+.orange{
+    background-color: #FC3009;
+    height: 35px;
+    width: 1280px;
+    margin-top: 0.5px;
+}
+
+#image{
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.shop{
+     color: #575757;
+     text-align: center;
+     font-size: 35px;
+     margin-top: 20px;
+}
+.handpicked{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 8px;
+    font-weight: 800;
+}
+.boxes{
+    height: 190px;
+    width: 180px;
+    
+    margin: 10px;
+    border-radius: 15px;
+
+}
+.flex{
+    display: flex;
+}
+
+.btn{
+    color: #FC3009;
+    background-color: white;
+
+}
+.page{
+    height: 20px;
+    width: 1280px;
+    background-color:#F5F5F5 ;
+    margin-top: 10px;
+}
+
+.popular{
+    color: #161616;
+    font-weight: 520;
+    font-size: 40px;
+    margin-top: 45px;
+    margin-left: 30px;
+
+}
+
+.view{
+    color: #161616;
+    font-weight:bold;
+  
+    margin-top: 70px;
+    margin-left: 867px;
+
+}
+
+.Product{
+  margin-left: 20px;
+  margin-top: 30px;
+   height: 424px;
+   width:280px ;
+   border-radius: 10px;
+   border: 1px solid gray;
+   box-shadow:1px 1px 2px gray;
+}
+
+.Product1{
+ margin-top: 30px;
+ margin-left: 40px;
+    height: 424px;
+    width:280px ;
+    border-radius: 10px;
+    border: 1px solid gray;
+    box-shadow:1px 1px 2px gray;
+ }
+.amul{
+    color: #303044;
+    font-size: 17px;
+    margin-left: 18px;
+    margin-top: 5px;
+}
+.mithai{
+    color: #7D7D7D;
+    margin-left: 18px;
+    margin-top: 5px;
+    font-size: 13px;
+}
+.mrp{
+    font-weight: 600;
+margin-top: 35px;
+    margin-left: 18px;
+
+}
+
+.usp{
+   
+    color:#7D7D7D ;
+    margin-top: 35px;
+}
+
+
+.cart,.like{
+    border: 1px solid gray;
+    height: 53px;
+    width: 50%;
+margin-top: 18px;
+
+}
+.cart{
+    border-radius: 0px 0px 0px 9px;
+}
+.like{
+    border-radius: 0px 0px 9px 0px;
+}
+
+.mrp1{
+    font-weight: 600;
+margin-top: 15px;
+    margin-left: 19px;
+
+}
+.usp1{
+   
+    color:#7D7D7D ;
+    margin-top: 15px;
+}
+
+.mrp2{
+    font-weight: 600;
+margin-top: 11px;
+    margin-left: 18px;
+
+}
+.usp2{
+    color:#7D7D7D ;
+    margin-top: 11px;
+}
+
+.cart2,.like2{
+    border: 1px solid gray;
+    height: 53px;
+    width: 50%;
+margin-top: 7px;
+
+}
+
+.cart2{
+    border-radius: 0px 0px 0px 9px;
+}
+.like2{
+    border-radius: 0px 0px 9px 0px;
+}
+.mrp3{
+    font-weight: 600;
+margin-top: 40px;
+    margin-left: 18px;
+
+}
+.usp3{
+    color:#7D7D7D ;
+    margin-top: 40px;
+}
+.section{
+    margin-top: 90px;
+}
+
+.cart3,.like3{
+    border: 1px solid gray;
+    height: 53px;
+    width: 50%;
+margin-top: 7px;
+
+}
+
+.cart3{
+    border-radius: 0px 0px 0px 9px;
+}
+.like3{
+    border-radius: 0px 0px 9px 0px;
+}
+
+.mrp4{
+    font-weight: 600;
+margin-top: 30px;
+    margin-left: 18px;
+
+}
+.usp4{
+    color:#7D7D7D ;
+    margin-top: 30px;
+}
+.Product2{
+    margin-top: 30px;
+    margin-left: 20px;
+       height: 410px;
+       width:280px ;
+       border-radius: 10px;
+       border: 1px solid gray;
+       box-shadow:1px 1px 2px gray;
+  }
+
+  .Product3{
+    margin-top: 30px;
+    margin-left: 40px;
+       height: 410px;
+       width:280px ;
+       border-radius: 10px;
+       border: 1px solid gray;
+       box-shadow:1px 1px 2px gray;
+  }
+
+  .page1{
+    height: 20px;
+    width: 1280px;
+    background-color:#F5F5F5 ;
+    margin-top: 80px;
+}
+
+.end{
+    background-color: #161616;
+    height: 800px;
+    width: 100%;
+    color: #BDBDBD;
+   
+}
+
+.font{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+.get{
+    font-size: 22px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.mainemail {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.email{
+    background-color: white;
+    height: 50px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.mainsusribe {
+    height: 100%;
+    display: flex ;
+    justify-content: center;
+}
+
+.suscribe{
+    background-color: #02AEEF;
+    height: 40px;
+    width: 95px;
+    margin-top: 5px;
+    border-radius: 10px;
+    margin-left: 396px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    margin-bottom: 9px;
+}
+
+.icon{
+    margin-left: 500px;
+}
+
+.social{
+    display: flex;
+    margin-top: 30px;
+}
+
+.icon1{
+    margin-left: 10px;
+}
+
+.logo1{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+    
+.last{
+    height: 70px;
+    width: 350px;
+  
+    font-size: 15px;
+ 
+}
+
+.cap{
+margin-left: 40px;
+
+margin-top: 17px;
+}
+
+
+.link{
+    margin-left: 400px;
+    margin-top: 10px;
+    color: #8F8F8F;
+font-weight: 500;
+    font-size: 13px;
+}
+.link1{
+    margin-left: 400px;
+    color:#BDBDBD ;
+font-weight: 700;
+margin-top: 20px;
+    font-size: 13px;
+}
+
+.link2{
+    color:#8F8F8F ;
+    font-weight: 500;
+    margin-top: 10px;
+        font-size: 13px;
+}
+
+.link3{
+    color:#BDBDBD ;
+    font-weight: 700;
+    margin-top: 20px;
+        font-size: 13px;
+}
+
+.info1{
+    margin-left:100px;
+}
+
+.icon-text{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.s{
+    color:#BDBDBD;
+    font-weight: 700;
+}
+.color{
+    color: #8F8F8F;
+}
+
+.icon-text1{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.custom-line {
+    border: 0;
+    height: 2px;
+    background-color: white;
+    margin: 20px 0;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+}
+
+.copyright{
+    margin-left: 40px;
+font-size: small;
+}
+
+.terms{
+    margin-left: 300px;
+    font-size: small;
+}
+.list{
+    margin-left: 30px;
+    font-size: small;
+}
